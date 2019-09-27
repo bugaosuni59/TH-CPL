@@ -211,7 +211,7 @@ STVR |Software Testing, Verification and Reliability ||||
 SPE |Software: Practice and Experience ||||
 -|软 件 学 报 ||||
 A类会议|||||
-OSDI |USENIX Symposium on Operating Systems Design and | mplementations ||||
+OSDI |USENIX Symposium on Operating Systems Design and implementations ||||
 ICSE|International Conference on Software Engineering ||||
 SOSP |ACM Symposium on Operating Systems Principles ||||
 POPL |ACM SIGPLAN-SIGACT Symposium on Principles Of Programming Languages ||||
