@@ -21,20 +21,20 @@ JETC |ACM Journal on Emerging Technologies in Computing Systems ||||
 -|Cluster Computing ||||
 A类会议|||||
 ISCA|International Symposium on Computer Architecture ||||
-FAST |USENIX Conference on File and Storage Technologies |2019-09-26|2019-12-11|长文11页，短文6页|
+FAST |USENIX Conference on File and Storage Technologies |2019-09-26|2019-12-11|长文11页，短文6页|[https://www.usenix.org/conference/fast20](https://www.usenix.org/conference/fast20)
 ASPLOS |International Conference on Archltectural Support for Programming Languages and Operating Systems ||||
-EuroSys |European Conference on Computer Systems |2019-11-4|2020-02-15|12页正文|
+EuroSys |European Conference on Computer Systems |2019-11-4|2020-02-15|12页正文|[https://www.eurosys2020.org/](https://www.eurosys2020.org/)
 HPCA |International Symposium on High-Performance Computer Architecture ||||
 SIGMETRICS |International Conference on Measurement and Modeling Of Computer Systems ||||
 FPGA |ACM/SIGDA International Symposium on Field-Programmable Gate Arrays ||||
-USENIX ATC |USENIX Annul Technical Conference ||||
+USENIX ATC |USENIX Annul Technical Conference |2020-01-15|2020-04-05| 长文11页，短文5页 |[https://www.usenix.org/conference/atc20](https://www.usenix.org/conference/atc20)
 MICRO |IEEE/ACM International Symposium on Microarchitecture ||||
 SC |International Conference for High Performance Computing, Networking, Storage, and Analysis ||||
 PPoPP |ACM SIGPLAN Symposium on Principles & Practice Of Parallel Programming ||||
 DAC |Design Automation Conference ||||
 B类会议|||||
 HPDC |International Symposium on High Performance Distributed Computing ||||
-SoCC|ACM Symposium on Cloud Computing ||||
+SoCC|ACM Symposium on Cloud Computing ||||[https://www.ieee-socc.org/](https://www.ieee-socc.org/)
 RTAS |Real-Time and Embedded Technology and Applications Symposium ||||
 MSST |Mass Storage Systems and Technologies ||||
 CGO |ACM/IEEE International Symposium on Code Generation and Optimization ||||
@@ -47,7 +47,7 @@ ICS|International Conference on Supercomputing ||||
 DATE |Design, Automation & Test in Europe Conference ||||
 SPAA |ACM Symposium on Parallelism in Algorithms and Architectures ||||
 Performance |International Symposium on Computer Performance, Modeling, Measurements and Evaluation ||||
-ICDCS |International Conference on Distributed Computing Systems ||||
+ICDCS |International Conference on Distributed Computing Systems |2020-01-13|2020-03-14|10页全文|[http://icdcs2020.sg/](http://icdcs2020.sg/)
 ICCAD |International Conference on Computer-Aided Design ||||
 CCGRID |IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing ||||
 HOT CHIPS |Hot Chips: A Symposium on High Performance Chips ||||
@@ -59,15 +59,15 @@ RTSS |Real-Time Systems Symposium ||||
 ICCD |International Conference on Computer Design ||||
 ISCAS |International Symposium on Circuits and Systems ||||
 ISPD |International Symposium on Physical Design ||||
-ICPP |International Conference on Parallel Processing ||||
+ICPP |International Conference on Parallel Processing |2020-03-09|2020-05-19|10页全文|[https://jnamaral.github.io/icpp20/](https://jnamaral.github.io/icpp20/)
 IEDM |IEEE International Electron Devices Meeting ||||
 ISSCC |International Solid-State Circuits Conference ||||
 计算机网络|||||
 A类期刊|||||
-JSAC |IEEE Journal of Selected Areas in Communications ||||
-TMC |IEEE Transactions on Mobile Computing ||||
-TON |IEEE/ACM Transactions on Networking ||||
-TCOM |IEEE Transactions on Communications ||||
+JSAC |IEEE Journal of Selected Areas in Communications ||||[https://www.comsoc.org/publications/journals/ieee-jsac](https://www.comsoc.org/publications/journals/ieee-jsac)
+TMC |IEEE Transactions on Mobile Computing ||||[https://www.computer.org/csdl/journals/tm](https://www.computer.org/csdl/journals/tm)
+TON |IEEE/ACM Transactions on Networking ||||[https://ton.lids.mit.edu/](https://ton.lids.mit.edu/)
+TCOM |IEEE Transactions on Communications ||||[https://mc.manuscriptcentral.com/tcom](https://mc.manuscriptcentral.com/tcom)
 B类期刊|||||
 TWC |IEEE Transactions on Wireless Communications ||||
 -|Wireless Networks ||||
@@ -86,29 +86,29 @@ TVT|IEEE Transactions on Vehicular Technology ||||
 -|通信学报||||
 A类会议|||||
 SIGCOMM |ACM International Conference on the applications, technologies, architectures, and protocols for computer communication ||||
-NSDI |Symposium on Network System Design and Implementation |2019-09-19|2019-12-13|12页正文|
-MOBICOM |ACM International Conference on Mobile Computing and Networking ||||
-MobiSys |International Conference on Mobile Systems, Applications, and Services ||||
+NSDI |Symposium on Network System Design and Implementation |2019-09-19|2019-12-13|12页正文|[https://www.usenix.org/conference/nsdi20](https://www.usenix.org/conference/nsdi20)
+MOBICOM |ACM International Conference on Mobile Computing and Networking |2019-08-18|2019-10-23|12页正文|[https://sigmobile.org/mobicom/2020/](https://sigmobile.org/mobicom/2020/)
+MobiSys |International Conference on Mobile Systems, Applications, and Services ||||[https://sigmobile.org/mobisys/2020/](https://sigmobile.org/mobisys/2020/)
 IMC |Internet Measurement Conference ||||
-IPSN |International Conference on Information Processing in Sensor Networks ||||
+IPSN |International Conference on Information Processing in Sensor Networks |2019-10-23|2020-01-10|全文12页|[https://ipsn.acm.org/2020/](https://ipsn.acm.org/2020/)
 SenSys |ACM Conference on Embedded Networked Sensor Systems ||||
-INFOCOM |IEEE International Conference on Computer Communications |||9页正文1页引文|
+INFOCOM |IEEE International Conference on Computer Communications |2019-07-31|2019-12-14|9页正文1页引文|[https://infocom2020.ieee-infocom.org/](https://infocom2020.ieee-infocom.org/)
 CoNEXT |ACM International Conference on Emerging Networking Experiments and Technologies ||||
 ICNP |International Conference on Network Protocols ||||
 B类会议|||||
-MobiHoc |International Symposium on Mobile Ad Hoc Networking and Computing ||||
+MobiHoc |International Symposium on Mobile Ad Hoc Networking and Computing |2019-12-06|2020-02-17|全文10页|[https://www.sigmobile.org/mobihoc/2020/](https://www.sigmobile.org/mobihoc/2020/)
 HotNets |The Workshop on Hot Topics in Networks ||||
 Globecom |IEEE Global Communications Conference ||||
-ICC |IEEE International Conference on Communications ||||
+ICC |IEEE International Conference on Communications |2019-10-14|2020-01-27|6页正文1页附录|[https://icc2020.ieee-icc.org/](https://icc2020.ieee-icc.org/)
 NOSSDAV |International Workshop on Network and Operating System Support for Digital Audio and Video ||||
 SECON |IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks ||||
-Networking |IFIP International Conferences on Networking ||||
+Networking |IFIP International Conferences on Networking |2020-01-07|2020-04-01|9页全文|[https://networking.ifip.org/2020/](https://networking.ifip.org/2020/)
 WoWMoM |IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks ||||
-WCNC |IEEE Wireless Communications & Networking Conference ||||
+WCNC |IEEE Wireless Communications & Networking Conference |2019-10-04|2019-14-31|8页全文|[https://wcnc2020.ieee-wcnc.org/](https://wcnc2020.ieee-wcnc.org/)
 ANCS |Architectures for Networking and Communications Systems ||||
 IWQoS |International Workshop on Quality of Service ||||
-WiOpt |The International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks ||||
-ICN |ACM Conference on Information Centric Networking ||||
+WiOpt |The International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks ||||[http://wi-opt.org/](http://wi-opt.org/)
+ICN |ACM Conference on Information Centric Networking ||||[http://www.icn2020.org/information-centric-networking/](http://www.icn2020.org/information-centric-networking/)
 CNSM |International Conference on Network and Service Management ||||
 网络与信息安全|||||
 A类期刊|||||
@@ -123,7 +123,7 @@ TOPS |ACM Transactions on Privacy and Security ||||
 A类会议|||||
 S&P|IEEE Symposium on Security and Privacy ||||
 NDSS |ISOC Network and Distributed System Security Symposium ||||
-USENIX Security |Usenix Security Symposium |2019-11-15、2020-02-15|2020-02-01、2020-05-01|13页正文，录用后改18页|
+USENIX Security |Usenix Security Symposium |2019-11-15、2020-02-15|2020-02-01、2020-05-01|13页正文，录用后改18页|[https://www.usenix.org/conference/usenixsecurity20](https://www.usenix.org/conference/usenixsecurity20)
 CCS|ACM Conference on Computer and Communications Security ||||
 EUROCRYPT |European Cryptology Conference ||||
 CRYPTO |International Cryptology Conference ||||
@@ -134,14 +134,14 @@ SOUPS |Symposium On Usable Privacy and Security ||||
 FC |Financial Cryptography and Data Security ||||
 PETS |Privacy Enhancing Technologies Symposium ||||
 TCC |Theory of Cryptography Conference ||||
-p KC |International Workshop on Practice and Theory in Public Key Cryptography ||||
+PKC |International Workshop on Practice and Theory in Public Key Cryptography ||||
 DIMVA |Detection of Intrusions and Malware & Vulnerability Assessment ||||
 CSFW |IEEE Computer Security Foundations Workshop ||||
 ESE |Fast Software Encryption ||||
 ESORICS |European Symposium on Research in Computer Security ||||
 DSN |The International Conference on Dependable Systems and Networks ||||
 RAID |International Symposium on Recent Advances in Intrusion Detection ||||
-1M |IFIP/IEEE International Symposium on Integrated Network Management ||||
+IM |IFIP/IEEE International Symposium on Integrated Network Management ||||
 CT-RSA |Cryptographer's Track at RSA Conference ||||
 ACSAC |Annual Computer Security Applications Conference ||||
 PAM |Passive and Active Network Measurement Conference ||||
@@ -211,7 +211,7 @@ STVR |Software Testing, Verification and Reliability ||||
 SPE |Software: Practice and Experience ||||
 -|软 件 学 报 ||||
 A类会议|||||
-OSDI |USENIX Symposium on Operating Systems Design and implementations ||||
+OSDI |USENIX Symposium on Operating Systems Design and implementations ||||[https://www.usenix.org/conference/osdi20](https://www.usenix.org/conference/osdi20)
 ICSE|International Conference on Software Engineering ||||
 SOSP |ACM Symposium on Operating Systems Principles ||||
 POPL |ACM SIGPLAN-SIGACT Symposium on Principles Of Programming Languages ||||
@@ -223,7 +223,7 @@ ASE|International Conference on Automated Software Engineering ||||
 B类会议|||||
 MSR |Mining Software Repositories ||||
 SANER |International Conference on Software Analysis, Evolution, and Reengineering||||
-Middleware |International Middleware Conference ||||
+Middleware |International Middleware Conference ||||[http://middleware-conference.org/](http://middleware-conference.org/)
 EASE |Evaluation and Assessment in Software Engineering ||||
 ICPC |IEEE International Conference on Program Comprehension ||||
 ICSME|International Conference on Software Maintenance and Evolution ||||
@@ -270,9 +270,9 @@ TWEB |ACM Transactions on the Web ||||
 -|Geolnformatica ||||
 DKE |Data and Knowledge Engineering ||||
 A类会议|||||
-SIGMOD |ACM Conference on Management Of Data ||||
+SIGMOD |ACM Conference on Management Of Data |2019-10-22|2019-12-10|正文14页|[https://sigmod2020.org/](https://sigmod2020.org/)
 SIGKDD |ACM Knowledge Discovery and Data Mining ||||
-SIGIR |International Conference on Research on Development in Information Retrieval ||||
+SIGIR |International Conference on Research on Development in Information Retrieval |2020-01-15|2020-04-20|短文4，长文10页|[https://sigir.org/sigir2020/](https://sigir.org/sigir2020/)
 WSDM |ACM International Conference on Web Search and Data Mining ||||
 VLDB |International Conference on Very Large Data Bases ||||
 ICDE |IEEE International Conference on Data Engineering ||||
@@ -398,7 +398,7 @@ ICIP |International Conference on Image Processing ||||
 SI3D |ACM Symposium on Interactive 3D Graphics ||||
 PacificVis |IEEE Pacific Visualization Symposium ||||
 PG|Pacific Graphics: The Pacific Conference on Computer Graphics and Applications ||||
-DCC |Data Compression Conference ||||
+DCC |Data Compression Conference |2019-11-01||10页全文|[https://www.cs.brandeis.edu/~dcc/](https://www.cs.brandeis.edu/~dcc/)
 人机交互与普适计算|||||
 A类期刊|||||
 IJHCS|International Journal of Human Computer Studies||||
@@ -414,7 +414,7 @@ CSCW|Computer Supported Cooperative Work ||||
 IWC |Interacting with Computers ||||
 A类会议|||||
 CSCW|ACM Conference on Computer Supported Cooperative Work and Social Computing ||||
-UbiComp |ACM International Conference on Ubiquitous Computing |2019-11-15|within 8 weeks|13-16页正文|
+UbiComp |ACM International Conference on Ubiquitous Computing |2019-11-15|within 8 weeks|13-16页正文|[http://ubicomp.org/ubicomp2020/](http://ubicomp.org/ubicomp2020/)
 UIST |ACM Symposium on User Interface Software and Technology ||||
 CHI |ACM Conference on Human Factors in Computing Systems ||||
 B类会议|||||
@@ -453,7 +453,7 @@ JCST |Journal of Computer Science and Technology ||||
 A类会议|||||
 RECOMB |International Conference on Research in Computational Molecular Biology ||||
 ISMB |International conference on Intelligent Systems for Molecular Biology ||||
-WWW|International World Wide Web Conferences |2019-10-14|2020-1-10| 长文12页，短文6页 |
+WWW|International World Wide Web Conferences |2019-10-14|2020-1-10| 长文12页，短文6页 |[https://www2020.thewebconf.org/](https://www2020.thewebconf.org/)
 EC |ACM Conference on Economics and Computation ||||
 B类会议|||||
 HSCC |International Conference on Hybrid Systems: Computation and Control ||||
