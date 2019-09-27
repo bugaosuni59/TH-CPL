@@ -1,9 +1,20 @@
 # 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL) 个人整理
 
+## 分类类别
 
+1. [高性能计算](#高性能计算)
+2. [计算机网络](#计算机网络)
+3. [网络与信息安全](#网络与信息安全)
+4. [理论计算机科学](#理论计算机科学)
+5. [系统软件与软件工程](#系统软件与软件工程)
+6. [数据库与数据挖掘](#数据库与数据挖掘)
+7. [人工智能与模式识别](#人工智能与模式识别)
+8. [计算机图形学与多媒体](#计算机图形学与多媒体)
+9. [人机交互与普适计算 综合与交叉](#人机交互与普适计算综合与交叉)
+
+## 高性能计算
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-高性能计算|||||
 A类期刊|||||
 TOCS |ACM Transactlons on Computer Systems ||||
 TPDS |IEEE Transactions on Parallel and Distributed Systems ||||
@@ -25,7 +36,7 @@ FAST |USENIX Conference on File and Storage Technologies |2019-09-26|2019-12-11|
 ASPLOS |International Conference on Archltectural Support for Programming Languages and Operating Systems ||||
 EuroSys |European Conference on Computer Systems |2019-11-4|2020-02-15|12页正文|[https://www.eurosys2020.org/](https://www.eurosys2020.org/)
 HPCA |International Symposium on High-Performance Computer Architecture ||||
-SIGMETRICS |International Conference on Measurement and Modeling Of Computer Systems ||||
+SIGMETRICS |International Conference on Measurement and Modeling Of Computer Systems |2019-10-21|2019-12-16|12页正文|[https://www.sigmetrics.org/sigmetrics2020/](https://www.sigmetrics.org/sigmetrics2020/)
 FPGA |ACM/SIGDA International Symposium on Field-Programmable Gate Arrays ||||
 USENIX ATC |USENIX Annul Technical Conference |2020-01-15|2020-04-05| 长文11页，短文5页 |[https://www.usenix.org/conference/atc20](https://www.usenix.org/conference/atc20)
 MICRO |IEEE/ACM International Symposium on Microarchitecture ||||
@@ -62,7 +73,10 @@ ISPD |International Symposium on Physical Design ||||
 ICPP |International Conference on Parallel Processing |2020-03-09|2020-05-19|10页全文|[https://jnamaral.github.io/icpp20/](https://jnamaral.github.io/icpp20/)
 IEDM |IEEE International Electron Devices Meeting ||||
 ISSCC |International Solid-State Circuits Conference ||||
-计算机网络|||||
+
+## 计算机网络
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
 A类期刊|||||
 JSAC |IEEE Journal of Selected Areas in Communications ||||[https://www.comsoc.org/publications/journals/ieee-jsac](https://www.comsoc.org/publications/journals/ieee-jsac)
 TMC |IEEE Transactions on Mobile Computing ||||[https://www.computer.org/csdl/journals/tm](https://www.computer.org/csdl/journals/tm)
@@ -104,13 +118,16 @@ NOSSDAV |International Workshop on Network and Operating System Support for Digi
 SECON |IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks ||||
 Networking |IFIP International Conferences on Networking |2020-01-07|2020-04-01|9页全文|[https://networking.ifip.org/2020/](https://networking.ifip.org/2020/)
 WoWMoM |IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks ||||
-WCNC |IEEE Wireless Communications & Networking Conference |2019-10-04|2019-14-31|8页全文|[https://wcnc2020.ieee-wcnc.org/](https://wcnc2020.ieee-wcnc.org/)
+WCNC |IEEE Wireless Communications & Networking Conference |2019-10-04|2019-12-31|8页全文|[https://wcnc2020.ieee-wcnc.org/](https://wcnc2020.ieee-wcnc.org/)
 ANCS |Architectures for Networking and Communications Systems ||||
 IWQoS |International Workshop on Quality of Service ||||
 WiOpt |The International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks ||||[http://wi-opt.org/](http://wi-opt.org/)
 ICN |ACM Conference on Information Centric Networking ||||[http://www.icn2020.org/information-centric-networking/](http://www.icn2020.org/information-centric-networking/)
 CNSM |International Conference on Network and Service Management ||||
-网络与信息安全|||||
+
+## 网络与信息安全
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
 A类期刊|||||
 TIFS |IEEE Transactions on Information Forensics and Security ||||
 -|Journal of Cryptology ||||
@@ -152,7 +169,10 @@ ACNS |Applied Cryptography and Network Security ||||
 IH&MMSec |ACM Workshop on Information Hiding and Multimedia Security ||||
 SEC |IFIP International Information Security Conference ||||
 NOMS |IEEE/IFIP Network Operations and Management Symposium ||||
-理论计算机科学|||||
+
+## 理论计算机科学
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
 A类期刊|||||
 SICOMP |SIAM Journal on Computing ||||
 TIT|IEEE Transactions on Information Theory ||||
@@ -192,7 +212,9 @@ FMCAD |Formal Methods in Computer-Aided Design ||||
 ITCS/ICS |Innovations in Theoretical Computer Science ||||
 SWAT/WADS |Scandinavian Symposium and Workshops on Algorithm Theory/ the Algorithms and Data Structures Symposium ||||
 ISIT |IEEE International Symposium on Information Theory ||||
-系统软件与软件工程|||||
+## 系统软件与软件工程
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
 A类期刊|||||
 TSE|IEEE Transactions on Software Engineering ||||
 TOSEM |ACM Transactions on Software Engineering and Methodology ||||
@@ -245,7 +267,9 @@ SCC |International Conference on Service Computing ||||
 ICWS|International Conference on Web Services (Research Track) ||||
 CP |International Conference on Principles and Practice of Constraint Programming ||||
 ATVA |International Symposium on Automated Technology for Verification and Analysis ||||
-数据库与数据挖掘|||||
+## 数据库与数据挖掘
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
 A类期刊|||||
 TKDE |IEEE Transactions on Knowledge and Data Engineering ||||
 VLDBJ |The VLDB Journal ||||
@@ -287,7 +311,9 @@ ECIR |European Conference on IR Research ||||
 EDBT |International Conference on Extending Database Technology ||||
 CIDR |International Conference on Innovative Data Systems Research ||||
 DASFAA |Database Systems for Advanced Applications ||||
-人工智能与模式识别|||||
+## 人工智能与模式识别
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
 A类期刊|||||
 TPAMI |IEEE Trans on Pattern Analysis and Machine Intelligence ||||
 IJCV |International Journal of Computer Vision ||||
@@ -360,7 +386,9 @@ IJCNN |International Joint Conference on Neural Networks ||||
 UAI |International Conference on Uncertainty in Artificial Intelligence ||||
 ALT |International Conference on Algorithmic Learning Theory ||||
 RecSys |Conference on Recommender Systems ||||
-计算机图形学与多媒体|||||
+## 计算机图形学与多媒体
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
 A类期刊|||||
 TIP |IEEE Transactions on Image Processing ||||
 TOG |ACM Transactions on Graphics ||||
@@ -399,7 +427,9 @@ SI3D |ACM Symposium on Interactive 3D Graphics ||||
 PacificVis |IEEE Pacific Visualization Symposium ||||
 PG|Pacific Graphics: The Pacific Conference on Computer Graphics and Applications ||||
 DCC |Data Compression Conference |2019-11-01||10页全文|[https://www.cs.brandeis.edu/~dcc/](https://www.cs.brandeis.edu/~dcc/)
-人机交互与普适计算|||||
+## 人机交互与普适计算
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
 A类期刊|||||
 IJHCS|International Journal of Human Computer Studies||||
 TOCHI|ACM Transactions on Computer-Human Interaction||||
@@ -423,7 +453,9 @@ IUI|ACM International Conference on Intelligent User Interfaces ||||
 MobileHCl |International Conference on Human Computer Interaction with Mobile Devices and Services ||||
 DIS |ACM Conference on Designing Interactive Systems ||||
 ICMI |ACM International Conference on Multimodal Interaction ||||
-综合与交叉|||||
+## 综合与交叉
+名称|全称|截稿时间|结果时间|篇幅|官网
+-|-|-|-|-|-
 A类期刊|||||
 JACM |Journal of the ACM ||||
 Proc. IEEE |Proceedings of the IEEE ||||
@@ -459,4 +491,7 @@ B类会议|||||
 HSCC |International Conference on Hybrid Systems: Computation and Control ||||
 MICCAI |International Conference on Medical Image Computing and Computer Assisted Intervention ||||
 BPM |International Conference on Business Process Management ||||
+
+
+部分会议按时间排序：https://docs.qq.com/sheet/DWkFid3JsSldtV2p6?c=C12A0A0
 
