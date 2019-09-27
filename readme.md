@@ -1,7 +1,7 @@
 # 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL) 个人整理
 
 
-名称|全称|截稿时间|篇幅|结果时间|官网
+名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
 高性能计算|||||
 A类期刊|||||
@@ -21,9 +21,9 @@ JETC |ACM Journal on Emerging Technologies in Computing Systems ||||
 -|Cluster Computing ||||
 A类会议|||||
 ISCA|International Symposium on Computer Architecture ||||
-FAST |USENIX Conference on File and Storage Technologies ||||
+FAST |USENIX Conference on File and Storage Technologies |2019-09-26|2019-12-11|长文11页，短文6页|
 ASPLOS |International Conference on Archltectural Support for Programming Languages and Operating Systems ||||
-EuroSys |European Conference on Computer Systems ||||
+EuroSys |European Conference on Computer Systems |2019-11-4|2020-02-15|12页正文|
 HPCA |International Symposium on High-Performance Computer Architecture ||||
 SIGMETRICS |International Conference on Measurement and Modeling Of Computer Systems ||||
 FPGA |ACM/SIGDA International Symposium on Field-Programmable Gate Arrays ||||
@@ -86,13 +86,13 @@ TVT|IEEE Transactions on Vehicular Technology ||||
 -|通信学报||||
 A类会议|||||
 SIGCOMM |ACM International Conference on the applications, technologies, architectures, and protocols for computer communication ||||
-NSDI |Symposium on Network System Design and Implementation ||||
+NSDI |Symposium on Network System Design and Implementation |2019-09-19|2019-12-13|12页正文|
 MOBICOM |ACM International Conference on Mobile Computing and Networking ||||
 MobiSys |International Conference on Mobile Systems, Applications, and Services ||||
 IMC |Internet Measurement Conference ||||
 IPSN |International Conference on Information Processing in Sensor Networks ||||
 SenSys |ACM Conference on Embedded Networked Sensor Systems ||||
-INFOCOM |IEEE International Conference on Computer Communications ||||
+INFOCOM |IEEE International Conference on Computer Communications |||9页正文1页引文|
 CoNEXT |ACM International Conference on Emerging Networking Experiments and Technologies ||||
 ICNP |International Conference on Network Protocols ||||
 B类会议|||||
@@ -123,7 +123,7 @@ TOPS |ACM Transactions on Privacy and Security ||||
 A类会议|||||
 S&P|IEEE Symposium on Security and Privacy ||||
 NDSS |ISOC Network and Distributed System Security Symposium ||||
-USENIX Security |Usenix Security Symposium ||||
+USENIX Security |Usenix Security Symposium |2019-11-15、2020-02-15|2020-02-01、2020-05-01|13页正文，录用后改18页|
 CCS|ACM Conference on Computer and Communications Security ||||
 EUROCRYPT |European Cryptology Conference ||||
 CRYPTO |International Cryptology Conference ||||
@@ -383,7 +383,7 @@ A类会议|||||
 SIGGRAPH |ACM SIGGRAPH Annual Conference ||||
 IEEE VIS |IEEE Visualization Conference ||||
 ACM MM |ACM International Conference on Multimedia ||||
-VR |IEEE Virtual Reality ||||
+VR |IEEE Virtual Reality | | |  |
 B类会议|||||
 SPM |Symposium on Solid and Physical Modeling ||||
 EGSR |Eurographics Symposium on Rendering ||||
@@ -414,7 +414,7 @@ CSCW|Computer Supported Cooperative Work ||||
 IWC |Interacting with Computers ||||
 A类会议|||||
 CSCW|ACM Conference on Computer Supported Cooperative Work and Social Computing ||||
-UbiComp |ACM International Conference on Ubiquitous Computing ||||
+UbiComp |ACM International Conference on Ubiquitous Computing |2019-11-15|within 8 weeks|13-16页正文|
 UIST |ACM Symposium on User Interface Software and Technology ||||
 CHI |ACM Conference on Human Factors in Computing Systems ||||
 B类会议|||||
@@ -453,7 +453,7 @@ JCST |Journal of Computer Science and Technology ||||
 A类会议|||||
 RECOMB |International Conference on Research in Computational Molecular Biology ||||
 ISMB |International conference on Intelligent Systems for Molecular Biology ||||
-WWW|International World Wide Web Conferences ||||
+WWW|International World Wide Web Conferences |2019-10-14|2020-1-10| 长文12页，短文6页 |
 EC |ACM Conference on Economics and Computation ||||
 B类会议|||||
 HSCC |International Conference on Hybrid Systems: Computation and Control ||||
