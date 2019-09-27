@@ -10,8 +10,8 @@
 6. [数据库与数据挖掘](#数据库与数据挖掘)
 7. [人工智能与模式识别](#人工智能与模式识别)
 8. [计算机图形学与多媒体](#计算机图形学与多媒体)
-9. [人机交互与普适计算 综合与交叉](#人机交互与普适计算综合与交叉)
-
+9. [人机交互与普适计算](#人机交互与普适计算)
+10. [综合与交叉](#综合与交叉)
 ## 高性能计算
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
@@ -427,7 +427,8 @@ SI3D |ACM Symposium on Interactive 3D Graphics | | | |
 PacificVis |IEEE Pacific Visualization Symposium | | | |
 PG|Pacific Graphics: The Pacific Conference on Computer Graphics and Applications | | | |
 DCC |Data Compression Conference |2019-11-01||10页全文|[https://www.cs.brandeis.edu/~dcc/](https://www.cs.brandeis.edu/~dcc/)
-## 人机交互与普适计算
+
+ ## 人机交互与普适计算
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
 A类期刊| | | | |
