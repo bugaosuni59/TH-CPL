@@ -2,6 +2,11 @@
 
 个人整理，欢迎纠错和更新
 
+本项目提供了MySQL数据库建表语句install.sql，包括下面所有信息
+
+本项目提供了通过MySQL数据库生成下面全部Markdown的脚本genMarkdown.php
+
+各个会议的deadline可参考[http://www.call4papers.cn/ccf/ccf-1.jsp](http://www.call4papers.cn/ccf/ccf-1.jsp)，感觉这网站挺好用？
 
 ## 分类类别
 
@@ -16,7 +21,7 @@
 9. [人机交互与普适计算](#人机交互与普适计算)
 10. [综合与交叉](#综合与交叉)
 
-各个会议的deadline可参考[http://www.call4papers.cn/ccf/ccf-1.jsp](http://www.call4papers.cn/ccf/ccf-1.jsp)，感觉这网站挺好用？
+
 
 
 ## 高性能计算
