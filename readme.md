@@ -6,7 +6,8 @@
 
 本项目提供了通过MySQL数据库生成下面全部Markdown的脚本genMarkdown.php
 
-~~各个会议的deadline可参考[http://www.call4papers.cn/ccf/ccf-1.jsp](http://www.call4papers.cn/ccf/ccf-1.jsp)，感觉这网站挺好用？~~这网站挂了。。
+~~各个会议的deadline可参考[http://www.call4papers.cn/ccf/ccf-1.jsp](http://www.call4papers.cn/ccf/ccf-1.jsp)，感觉这网站挺好用？~~
+这网站挂了。。
 
 ## 分类类别
 
