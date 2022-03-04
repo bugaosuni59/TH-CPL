@@ -300,7 +300,7 @@ AEI|Advanced Engineering Informatics|-|-|-|-
 IJIS|International Journal of Intelligent Systems|-|-|-|-
 TWEB|ACM Transactions on the Web|-|-|-|-
 -|Information Sciences|2020-05-01|-|-|-
--|Geolnformatica|-|-|-|-
+-|GeoInformatica|-|-|-|-
 DKE|Data and Knowledge Engineering|-|-|-|-
 A类会议| | | | |
 SIGMOD|ACM Conference on Management Of Data|2019-07-16|2019-12-10|正文14页|[https://sigmod2020.org/](https://sigmod2020.org/)
