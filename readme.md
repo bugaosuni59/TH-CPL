@@ -6,7 +6,7 @@
 
 本项目提供了通过MySQL数据库生成下面全部Markdown的脚本genMarkdown.php
 
-各个会议的deadline可参考[http://www.call4papers.cn:8080/ccf/ccf-1.jsp](http://www.call4papers.cn:8080/ccf/ccf-1.jsp)，感觉这网站挺好用？
+各个会议的deadline可参考 https://ccfddl.github.io/ 和 https://ccfddl.top/
 
 ## 分类类别
 
@@ -28,11 +28,11 @@
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
 A类期刊| | | | |
-TOCS|ACM Transactlons on Computer Systems|-|-|-|-
+TOCS|ACM Transactions on Computer Systems|-|-|-|-
 TPDS|IEEE Transactions on Parallel and Distributed Systems|-|-|-|-
-TC|IEEE Transactlons on Computers|-|-|-|-
-TCAD|IEEE Transactions On Computer-Aided Design Of Integrated Circults And Systems|-|-|-|-
-TOS|ACM Transactlons on Storage|-|-|-|-
+TC|IEEE Transactions on Computers|-|-|-|-
+TCAD|IEEE Transactions On Computer-Aided Design Of Integrated Circuits And Systems|-|-|-|-
+TOS|ACM Transactions on Storage|-|-|-|-
 B类期刊| | | | |
 TAAS|ACM Transactions on Autonomous and Adaptive Systems|-|-|-|-
 JPDC|Journal Of Parallel and Distributed Computing|-|-|-|-
@@ -45,7 +45,7 @@ JETC|ACM Journal on Emerging Technologies in Computing Systems|-|-|-|-
 A类会议| | | | |
 ISCA|International Symposium on Computer Architecture|2019-11-26|-|-|-
 FAST|USENIX Conference on File and Storage Technologies|2019-09-26|2019-12-11|长文11页，短文6页|[https://www.usenix.org/conference/fast20](https://www.usenix.org/conference/fast20)
-ASPLOS|International Conference on Archltectural Support for Programming Languages and Operating Systems|2019-08-16|-|-|-
+ASPLOS|International Conference on Architectural Support for Programming Languages and Operating Systems|2019-08-16|-|-|-
 EuroSys|European Conference on Computer Systems|2019-11-04|2020-02-15|12页正文|[https://www.eurosys2020.org/](https://www.eurosys2020.org/)
 HPCA|International Symposium on High-Performance Computer Architecture|2019-08-06|-|-|-
 SIGMETRICS|International Conference on Measurement and Modeling Of Computer Systems|2020-02-03|2019-12-16|12页正文|[https://www.sigmetrics.org/sigmetrics2020/](https://www.sigmetrics.org/sigmetrics2020/)
@@ -190,12 +190,12 @@ IANDC|Information and Computation|-|-|-|-
 B类期刊| | | | |
 TOMS|ACM Transactions on Mathematical Software|-|-|-|-
 JCSS|Journal Of Computer and System Sciences|-|-|-|-
-FGCS|Future Generatlon Computer Systems|-|-|-|-
+FGCS|Future Generation Computer Systems|-|-|-|-
 Algorithmica|Algorithmica|-|-|-|-
-CC|Computational complexlty|-|-|-|-
+CC|Computational complexity|-|-|-|-
 INFORMS|INFORMS Journal on Computing|-|-|-|-
 TOCL|ACM Transactions on Computational Logic|-|-|-|-
-JGC|Journal Of Grid Computlng|-|-|-|-
+JGC|Journal Of Grid Computing|-|-|-|-
 FMSD|Formal Methods in System Design|-|-|-|-
 JGO|Journal Of Global Optimization|-|-|-|-
 JSC|Journal Of Symbolic Computation|-|-|-|-
@@ -211,7 +211,7 @@ CCC|IEEE Conference on Computational Complexity|2020-02-17|-|-|-
 ICALP|International Colloquium on Automata, Languages and Programming|2020-02-12|-|-|-
 B类会议| | | | |
 SAT|Theory and Applications of Satisfiability Testing|2020-02-22|-|-|-
-CADE/IJCAR|International Conference on Automated Deduction/lnternational Joint Conference on Automated Reasonin|2020-01-23|-|-|-
+CADE/IJCAR|International Conference on Automated Deduction/International Joint Conference on Automated Reasoning|2020-01-23|-|-|-
 SoCG|ACM Symposium on Computational Geometry|2019-12-04|-|-|-
 CONCUR|International Conference on Concurrency Theory|2020-04-22|-|-|-
 STACS|Symposium on Theoretical Aspects of Computer Science|2019-09-30|-|-|-
@@ -219,7 +219,7 @@ ESA|European Symposium on Algorithms|2019-04-26|-|-|-
 CSL|Computer Science Logic|2019-07-04|-|-|-
 FMCAD|Formal Methods in Computer-Aided Design|2020-04-16|-|-|-
 ITCS/ICS|Innovations in Theoretical Computer Science|-|-|-|-
-SWAT/WADS|Scandinavian Symposium and Workshops on Algorithm Theory/ the Algorithms and Data Structures Symposi|-|-|-|-
+SWAT/WADS|Scandinavian Symposium and Workshops on Algorithm Theory/ the Algorithms and Data Structures Symposium|-|-|-|-
 ISIT|IEEE International Symposium on Information Theory|-|-|-|-
 ## 系统软件与软件工程
 名称|全称|截稿时间|结果时间|篇幅|官网
@@ -229,11 +229,11 @@ TSE|IEEE Transactions on Software Engineering|-|-|-|-
 TOSEM|ACM Transactions on Software Engineering and Methodology|-|-|-|-
 TOPLAS|ACM Transactions on Programming Languages & Systems|-|-|-|-
 B类期刊| | | | |
-TSC|IEEE Transactlons on Servlce Computlng|-|-|-|-
+TSC|IEEE Transactions on Service Computing|-|-|-|-
 IST|Information and Software Technology|2020-04-20|-|-|-
 ESE|Empirical Software Engineering|-|-|-|-
 SOSyM|Software and System Modeling|-|-|-|-
-RE|Requlrements Englneerlng|2020-02-17|-|-|-
+RE|Requirements Engineering|2020-02-17|-|-|-
 JSS|Journal of Systems and Software|2020-04-15|-|-|-
 ASE|Automated Software Engineering|2019-05-13|-|-|-
 SCP|Science Of Computer Programming|-|-|-|-
@@ -247,8 +247,8 @@ ICSE|International Conference on Software Engineering|2019-08-23|-|-|-
 SOSP|ACM Symposium on Operating Systems Principles|2019-04-24|-|-|-
 POPL|ACM SIGPLAN-SIGACT Symposium on Principles Of Programming Languages|2019-07-10|-|-|-
 PLDI|ACM SIGPLAN Conference on Programming Language Design & Implementation|2019-11-22|-|-|-
-FSE/ESEC|ACM SIGSOFT Symposium on the Foundation Of Software Engineering/ European Software Engineering Confe|-|-|-|-
-ISSTA|International Symposium on Software Testing and Analysls|2020-01-27|-|-|-
+FSE/ESEC|ACM SIGSOFT Symposium on the Foundation Of Software Engineering/ European Software Engineering Conference|-|-|-|-
+ISSTA|International Symposium on Software Testing and Analysis|2020-01-27|-|-|-
 OOPSLA|Conference on Object-Oriented Programming Systems, Languages, and Applications|2020-04-06|-|-|-
 ASE|International Conference on Automated Software Engineering|2019-05-13|-|-|-
 B类会议| | | | |
@@ -263,11 +263,11 @@ ECOOP|European Conference on Object Oriented Programming|2020-01-10|-|-|-
 ICST|IEEE International Conference 0 n Software Testing, Verification and Validation|2019-10-14|-|-|-
 ICFP|International Conference on Function Programming|2020-03-03|-|-|-
 RE|IEEE International Requirement Engineering Conference|2020-02-17|-|-|-
-CAiSE|International Conference on Advanced Informatlon Systems Engineering|2019-11-29|-|-|-
+CAiSE|International Conference on Advanced Information Systems Engineering|2019-11-29|-|-|-
 HotOS|USENIX Workshop on Hot Topics in Operating Systems|2019-01-17|-|-|-
 ETAPS|European Joint Conferences on Theory and Practice Of Software|2019-10-24|-|-|-
-VMCAI|International Conference on Verification, Model Checking, and Abstract Interpretatlon|2019-10-01|-|-|-
-ISSRE|International Symposium on Software Reliabillty Engineering|2020-05-07|-|-|-
+VMCAI|International Conference on Verification, Model Checking, and Abstract Interpretation|2019-10-01|-|-|-
+ISSRE|International Symposium on Software Reliability Engineering|2020-05-07|-|-|-
 MoDELS|International Conference on Model Driven Engineering Languages and Systems|-|-|-|-
 ESEM|International Symposium on Empirical Software Engineering and Measurement|2020-04-27|-|-|-
 FM|International Symposium on Formal Methods|2019-04-11|-|-|-
@@ -334,30 +334,30 @@ B类期刊| | | | |
 TEC|IEEE Transactions on Evolutionary Computation|-|-|-|-
 TNNLS|IEEE Transactions on Neural Networks and learning systems|-|-|-|-
 -|IEEE Transactions on Cybernetics|-|-|-|-
-TFS|IEEE Transactlons on Fuzzy Systems|-|-|-|-
-PR|Pattern Recognltlon|-|-|-|-
-TAC|IEEE Transactions on Affective Comput'ng|-|-|-|-
+TFS|IEEE Transactions on Fuzzy Systems|-|-|-|-
+PR|Pattern Recognition|-|-|-|-
+TAC|IEEE Transactions on Affective Computing|-|-|-|-
 JBI|Journal Of Biomedical Informatics|-|-|-|-
 -|Neural Networks|-|-|-|-
 -|KNOWLEDGE-BASED SYSTEMS|-|-|-|-
 Expert Syst. Appl.|Expert Systems with Applications|-|-|-|-
-PRL|Pattern Recognltlon Letters|-|-|-|-
+PRL|Pattern Recognition Letters|-|-|-|-
 JAIR|Journal Of Artificial Intelligence Research|-|-|-|-
 CVIU|Computer Vision and Image Understanding|-|-|-|-
 EAAI|Engineering Applications Of Artificial Intelligence|-|-|-|-
 -|International Journal Of Neural Systems|-|-|-|-
--|Neurocomputlng|-|-|-|-
+-|Neurocomputing|-|-|-|-
 -|Evolutionary Computation|-|-|-|-
 -|Computational Linguistics|-|-|-|-
 -|Machine Learning|-|-|-|-
 AIM|Artificial Intelligence in Medicine|-|-|-|-
--|Image and Vision Computlng|-|-|-|-
+-|Image and Vision Computing|-|-|-|-
 -|Computer Speech and Language|2020-02-01|-|-|-
 -|Journal Of Automated Reasoning|-|-|-|-
 IJAR|International Journal Of Approximate Reasoning|-|-|-|-
 AAMAS|Autonomous Agents and Multi-Agent Systems|2019-11-15|-|-|-
 IJIS|International Journal Of Intelligent Systems|-|-|-|-
-TG|IEEE Transactlons on Games|-|-|-|-
+TG|IEEE Transactions on Games|-|-|-|-
 JSLHR|Journal Of Speech, Language, and Hearing Research|-|-|-|-
 -|Neural Computation|-|-|-|-
 -|Applied Intelligence|-|-|-|-
@@ -371,8 +371,8 @@ ICML|International Conference on Machine Learning|2020-02-07|-|-|-
 ACL|Annual Meeting of the Association for Computational Linguistics|2019-12-09|-|-|-
 ECCV|European Conference on Computer Vision|2020-03-05|-|-|-
 COLT|Annual Conference on Computational Learning Theory|2020-01-31|-|-|-
-NeuriPS|Annual Conference on Neural Information Processing Systems|2019-05-23|-|-|-
-AAA I|AAAI Conference on Artificial Intelligence|2019-09-05|-|-|-
+NeurIPS|Annual Conference on Neural Information Processing Systems|2019-05-23|-|-|-
+AAAI|AAAI Conference on Artificial Intelligence|2019-09-05|-|-|-
 EMNLP|Conference on Empirical Methods in Natural Language Processing|2019-05-21|-|-|-
 ICRA|IEEE International Conference on Robotics and Automation|2019-09-15|-|-|-
 ICLR|International Conference on Learning Representations|-|-|-|-
