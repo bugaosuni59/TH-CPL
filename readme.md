@@ -1,10 +1,6 @@
 # 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL) 
 
-个人整理，欢迎纠错和更新
-
-本项目提供了MySQL数据库建表语句install.sql，包括下面所有信息
-
-本项目提供了通过MySQL数据库生成下面全部Markdown的脚本genMarkdown.php
+早期手动整理的，年久失修，完整列表pdf可参考 [TH-CPL.pdf (tsinghua.edu.cn)](https://numbda.cs.tsinghua.edu.cn/%7Eyuwj/TH-CPL.pdf)
 
 各个会议的deadline可参考 https://ccfddl.github.io/ 和 https://ccfddl.top/
 
